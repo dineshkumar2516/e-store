@@ -1,0 +1,45 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+}
+#detail-section{
+    width:100vw;
+   
+}
+#detail-row1{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    padding-left:8%;
+    padding-top:5%;
+    padding-bottom:5%;
+    background-color:rgb(233 236 239);
+}
+.detail-col1{
+    width:21vw;
+   padding:10px;
+    text-align:center;
+
+}
+.detail-col2{
+    width:21vw;
+   padding:10px;
+    text-align:center;
+}
+.detail-col3{
+    width:21vw;
+   padding:10px;
+    text-align:center;
+}
+.detail-col4{
+    width:21vw;
+   padding:10px;
+    text-align:center;
+}
+.detail-icons{
+    zoom:1.5;
+    color:rgb(51, 47, 52);
+}
+
+
